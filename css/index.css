@@ -1,0 +1,13 @@
+* {
+  margin: 0 !important;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#diemthi,
+#result,
+#result2 {
+  display: none;
+}
+/*# sourceMappingURL=index.css.map */
